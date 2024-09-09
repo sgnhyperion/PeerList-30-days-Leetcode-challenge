@@ -1,4 +1,6 @@
-import java.util.HashMap;
+package Day1;
+
+import java.util.*;
 
 public class Solution {
     public int[] twoSum(int[] nums, int target) {

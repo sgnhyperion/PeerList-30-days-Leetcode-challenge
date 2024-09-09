@@ -1,3 +1,5 @@
+package Day2;
+
 import java.util.*;
 public class Solution {
     public int maxProfit(int[] prices) {
